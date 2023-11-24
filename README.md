@@ -13,6 +13,8 @@ This work is completed as a part of Course assignment in 3D Computer Vision at I
 
 # Executing the code:
 
+Create the folder named 'img_set_1' and place the images to be stitched in the folder. We experimented with 8 images.
+
 Step-1 : The root directory is to be maintained as seen and naming of the images and their folders to be followed in the same fashion.
 
 Step-2 : The Code is fixed for the set of 8 images, for different no. of images alter the range mentioned in the panaroma_stitching.py (commented in the code)
